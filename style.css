@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    font-style: bold ;
+    background-color: rgb(30, 145, 159);
+}
+
+header {
+        background: rgb(11, 146, 40);
+}
+
+main {
+     background-color: rgb(51, 66, 150);
+}
+
+main p {
+    padding: 18px;
+    font-size: 29px;
+    text-align: center;
+}
+
+footer {
+        background: rgb(11, 146, 40);
+}
+
+h1 {
+    text-align: center;
+ margin-top: 40px;
+ padding: 20px;
+ font-size: 40px;
+ background-color: rgb(11, 146, 40);
+}
+
+header {
+    background: rgb(11, 146, 40);
+}
+a {
+    font-size: 24px;
+    color: rgba(200, 255, 0, 0.795);
+    text-decoration: none;
+    background-color: rgb(97, 36, 31);
+    padding: 2px;
+    border-radius: 7px;
+}
+header img {
+     width: 60px;
+}
+
+        /* Style for image container */
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 800px; /* Set your desired max width */
+            margin: auto; /* Center the container */
+        }
+
+        /* Style for individual images */
+        .image-container img {
+            max-width: 48%; /* Adjust the width of each image as needed */
+            border-radius: 8px; /* Optional: Add some styling to images */
+        }
+
+        /* Style for heading */
+        h1 {
+            text-align: center; /* Center the heading */
+        }
+
+div img {
+    width: 105px;
+}
+
